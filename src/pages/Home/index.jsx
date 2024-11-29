@@ -1,13 +1,13 @@
-import { NomeDoPokemon } from "../../components/Pockemon";
+import { NomeDoPockemon } from "../../components/Pockemon";
 
 export const Home =() => {
   return(<div>
     <h1>Olá Mundo!</h1>
-    <NomeDoPokemon name="Pikachu"/>
-    <NomeDoPokemon name="Bulbasuar"/>
-    <NomeDoPokemon name="Charmander"/>
-    <NomeDoPokemon name="Squirtle"/>
-    <NomeDoPokemon name="Rattata"/>
+    <NomeDoPockemon name="Pikachu"/>
+    <NomeDoPockemon name="Bulbasuar"/>
+    <NomeDoPockemon name="Charmander"/>
+    <NomeDoPockemon name="Squirtle"/>
+    <NomeDoPockemon name="Rattata"/>
     </div>);
 }
 
