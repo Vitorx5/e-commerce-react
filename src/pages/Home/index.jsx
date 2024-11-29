@@ -1,4 +1,4 @@
-import { NomeDoPokemon } from "../components/pockemon";
+import { NomeDoPokemon } from "../../components/Pockemon";
 
 export const Home =() => {
   return(<div>
